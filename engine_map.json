@@ -1,0 +1,141 @@
+{
+    "Strips": {
+        "Strip[0]": [
+            "Mute",
+            "Solo",
+            "Gain",
+            "Color_x",
+            "Color_y",
+            "Comp",
+            "Gate",
+            "Pan_x",
+            "Pan_y",
+            "EQGain1",
+            "EQGain2",
+            "EQGain3",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "B1",
+            "B2",
+            "B3"
+        ],
+        "Strip[1]": [
+            "Mute",
+            "Solo",
+            "Gain",
+            "Color_x",
+            "Color_y",
+            "Comp",
+            "Gate",
+            "Pan_x",
+            "Pan_y",
+            "EQGain1",
+            "EQGain2",
+            "EQGain3",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "B1",
+            "B2",
+            "B3"
+        ],
+        "Strip[2]": [
+            "Mute",
+            "Solo",
+            "Gain",
+            "Color_x",
+            "Color_y",
+            "Comp",
+            "Gate",
+            "Pan_x",
+            "Pan_y",
+            "EQGain1",
+            "EQGain2",
+            "EQGain3",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "B1",
+            "B2",
+            "B3"
+        ],
+        "Strip[3]": [
+            "Mute",
+            "Solo",
+            "Gain",
+            "Color_x",
+            "Color_y",
+            "Comp",
+            "Gate",
+            "Pan_x",
+            "Pan_y",
+            "EQGain1",
+            "EQGain2",
+            "EQGain3",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "B1",
+            "B2",
+            "B3"
+        ],
+        "Strip[4]": [
+            "Mute",
+            "Solo",
+            "Gain",
+            "Color_x",
+            "Color_y",
+            "Comp",
+            "Gate",
+            "Pan_x",
+            "Pan_y",
+            "EQGain1",
+            "EQGain2",
+            "EQGain3",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "B1",
+            "B2",
+            "B3"
+        ]
+    },
+    "Buses": {
+        "Bus[0]": [
+            "Mute",
+            "EQ.on",
+            "Gain"
+        ],
+        "Bus[1]": [
+            "Mute",
+            "EQ.on",
+            "Gain"
+        ],
+        "Bus[2]": [
+            "Mute",
+            "EQ.on",
+            "Gain"
+        ],
+        "Bus[3]": [
+            "Mute",
+            "EQ.on",
+            "Gain"
+        ],
+        "Bus[4]": [
+            "Mute",
+            "EQ.on",
+            "Gain"
+        ]
+    }
+}
