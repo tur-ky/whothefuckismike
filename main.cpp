@@ -412,7 +412,8 @@ GetWindowPlacement(g_hwnd,&wp);
 ShowWindow(g_hwnd,wp.showCmd==SW_MAXIMIZE?SW_RESTORE:SW_MAXIMIZE);
 }
         ImGui::SameLine(0,2);
-if(ImGui::Button("X",ImVec2(20,22)))PostQuitMessage(0);
+if(ImGui::Button("X",ImVec2(20,22)))done=true;
+
 
 
         
